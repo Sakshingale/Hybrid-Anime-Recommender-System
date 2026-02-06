@@ -1,0 +1,1 @@
+This project implements a Hybrid Anime Recommendation System that combines content-based filtering and collaborative filtering to deliver accurate and personalized anime recommendations. The system is built end-to-end with MLOps best practices, ensuring reproducibility, scalability, and continuous deployment.
