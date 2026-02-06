@@ -4,7 +4,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="MLOPS-PROJECT-2",
+    name="MLOPS-Project-2",
     version="0.1",
     author="Sakshi",
     packages=find_packages(),
