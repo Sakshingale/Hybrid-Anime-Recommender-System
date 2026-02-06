@@ -14,6 +14,11 @@ Requires-Dist: lightgbm
 Requires-Dist: mlflow
 Requires-Dist: flask
 Requires-Dist: tensorflow
+Requires-Dist: comet-ml
+Requires-Dist: dvc
+Requires-Dist: dvc-gs
+Requires-Dist: flask
+Requires-Dist: joblib
 Dynamic: author
 Dynamic: license-file
 Dynamic: requires-dist
