@@ -1,4 +1,55 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =====================
+# Virtual Environments
+# =====================
 venv/
-mlruns/
+.env/
+.venv/
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Data & Artifacts
+# =====================
+artifacts/
+data/
+*.csv
+*.parquet
+
+# =====================
+# Logs
+# =====================
 logs/
-MLOPS_PROJECT_1.egg-info/
+*.log
+
+# =====================
+# MLflow
+# =====================
+mlruns/
+
+# =====================
+# OS
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# IDEs
+# =====================
+.vscode/
+.idea/
+
+# =====================
+# Credentials (CRITICAL)
+# =====================
+*.json
+credentials/

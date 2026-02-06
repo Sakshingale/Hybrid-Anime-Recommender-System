@@ -2,8 +2,10 @@ Metadata-Version: 2.4
 Name: MLOPS-PROJECT-2
 Version: 0.1
 Author: Sakshi
+License-File: LICENSE
 Requires-Dist: pandas
 Requires-Dist: numpy
+Requires-Dist: setuptools
 Requires-Dist: google-cloud-storage
 Requires-Dist: scikit-learn
 Requires-Dist: pyyaml
@@ -11,5 +13,7 @@ Requires-Dist: imbalanced-learn
 Requires-Dist: lightgbm
 Requires-Dist: mlflow
 Requires-Dist: flask
+Requires-Dist: tensorflow
 Dynamic: author
+Dynamic: license-file
 Dynamic: requires-dist
